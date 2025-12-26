@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quiz Master",
+  "description": "An AI-powered quiz application that transforms your Word documents into interactive practice tests with automatic grading, explanations, and progress tracking.",
+  "requestFramePermissions": []
+}
